@@ -1,2 +1,2 @@
 # ToDoList
-ToDoList using REACT HTML and JS
+"A simple To-Do List application built using React, allowing users to add, edit, and delete tasks. The app utilizes state management to track tasks, and the user interface is responsive and interactive. Ideal for organizing tasks, it provides a seamless and dynamic experience using React components and hooks. This project can be used as a basic foundation for more complex task management applications."
